@@ -1,0 +1,1 @@
+sch2sym -intstyle ise -family spartan3e -refsym Debounce {C:/Users/willi/Desktop/Final Project/Computer/Debounce.sch} {C:/Users/willi/Desktop/Final Project/Computer/Debounce.sym} 

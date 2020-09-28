@@ -1,0 +1,3 @@
+sch2hdl,-intstyle,ise,-family,spartan3e,-verilog,C:/Users/willi/Desktop/Final Project/Computer/control_unit.vf,-w,C:/Users/willi/Desktop/Final Project/ControlUnit/control_unit.sch
+sch2hdl,-intstyle,ise,-family,spartan3e,-verilog,C:/Users/willi/Desktop/Final Project/Computer/Computer.vf,-w,C:/Users/willi/Desktop/Final Project/Computer/Computer.sch
+sch2hdl,-intstyle,ise,-family,spartan3e,-verilog,C:/Users/willi/Desktop/Final Project/Computer/Computer.vf,-w,C:/Users/willi/Desktop/Final Project/Computer/Computer.sch

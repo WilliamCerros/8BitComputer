@@ -1,0 +1,1 @@
+sch2sym -intstyle ise -family spartan3e -w -refsym AddressMux {C:/Users/willi/Desktop/Final Project/Computer/AddressMux.sch} {C:/Users/willi/Desktop/Final Project/Computer/AddressMux.sym} 

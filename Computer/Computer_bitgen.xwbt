@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\willi\Desktop\Final Project\Computer\Computer.ncd
+OUTFILE=C:\Users\willi\Desktop\Final Project\Computer\Computer.bit
+FAMILY=Spartan3E
+PART=xc3s500e-4fg320
+WORKINGDIR=C:\Users\willi\Desktop\Final Project\Computer
+LICENSE=WebPack
+USER_INFO=174218040_0_0_110

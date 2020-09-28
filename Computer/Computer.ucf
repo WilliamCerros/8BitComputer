@@ -1,0 +1,64 @@
+#Nexys 2 Board Clock
+NET "Sys_CLK" LOC = B8;
+
+
+#When run is high we are in run mode
+#When low we are in programming mode
+NET "run" LOC = N17;
+
+
+#Address Input
+NET "Address[0]" LOC = G18;
+NET "Address[1]" LOC = H18;
+NET "Address[2]" LOC = K18;
+NET "Address[3]" LOC = K17;
+NET "Address[4]" LOC = L14;
+
+#toggleRam is high then we enable Data Ram
+#when low Instruction Ram is enabled
+NET "toggleRam" LOC = R17;
+
+
+#WCLK is used for programming mode, when pushbutton is pressed
+#we latch our data to instruction or data ram
+NET "WCLK" LOC = H13;
+
+#Manual override of Clock input
+NET "WCLK" CLOCK_DEDICATED_ROUTE = FALSE;
+
+#Keyboard Row Pins
+NET "row[3]" LOC = K13;
+NET "row[2]" LOC = L16;
+NET "row[1]" LOC = M14;
+NET "row[0]" LOC = M16;
+
+#Keyboard Column Pins
+NET "col[0]" LOC = L15;
+NET "col[1]" LOC = K12;
+NET "col[2]" LOC = L17;
+NET "col[3]" LOC = M15;
+
+#Seven Segment 
+NET "anO[0]" LOC = F17;
+NET "anO[1]" LOC = H17;
+NET "anO[2]" LOC = C18;
+NET "anO[3]" LOC = F15;
+
+NET "sseg[0]" LOC = H14;
+NET "sseg[1]" LOC = J17;
+NET "sseg[2]" LOC = G14;
+NET "sseg[3]" LOC = D16;
+NET "sseg[4]" LOC = D17;
+NET "sseg[5]" LOC = F18;
+NET "sseg[6]" LOC = L18;
+
+NET "Accumulator(0)" LOC = J14;
+NET "Accumulator(1)" LOC = J15;
+NET "Accumulator(2)" LOC = K15;
+NET "Accumulator(3)" LOC = K14;
+NET "Accumulator(4)" LOC = E17;
+NET "Accumulator(5)" LOC = P15;
+NET "Accumulator(6)" LOC = F4;
+NET "Accumulator(7)" LOC = R4;
+
+

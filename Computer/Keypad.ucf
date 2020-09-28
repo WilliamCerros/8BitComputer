@@ -1,0 +1,34 @@
+NET "sys_clk" LOC = B8;
+
+
+
+#Nibble A Input
+NET "Address[0]" LOC = G18;
+NET "Address[1]" LOC = H18;
+NET "Address[2]" LOC = K18;
+NET "Address[3]" LOC = K17;
+NET "Address[4]" LOC = K17;
+
+
+
+
+NET "row[3]" LOC = K13;
+NET "row[2]" LOC = L16;
+NET "row[1]" LOC = M14;
+NET "row[0]" LOC = M16;
+
+NET "col[0]" LOC = L15;
+NET "col[1]" LOC = K12;
+NET "col[2]" LOC = L17;
+NET "col[3]" LOC = M15;
+
+NET "dataOut[7]" LOC = R4;
+NET "dataOut[6]" LOC = F4;
+NET "dataOut[5]" LOC = P15;
+NET "dataOut[4]" LOC = E17;
+NET "dataOut[3]" LOC = K14;
+NET "dataOut[2]" LOC = K15;
+NET "dataOut[1]" LOC = J15;
+NET "dataOut[0]" LOC = J14;
+
+NET "toggleData" LOC = G18;

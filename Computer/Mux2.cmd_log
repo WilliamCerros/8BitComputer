@@ -1,0 +1,1 @@
+sch2sym -intstyle ise -family spartan3e -w -refsym Mux2 C:/Users/willi/Desktop/Physics301/Lab9Schematics/Exp7/Mux2.sch {C:/Users/willi/Desktop/Final Project/Computer/Mux2.sym} 

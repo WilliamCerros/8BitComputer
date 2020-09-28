@@ -1,0 +1,6 @@
+vhdtdtfi -lib work ../../301_programs/sRAM32x8_pgmA_data.vhd -prj Computer -o sRAM32x8_pgmA_data.spl -module sRAM32x8_pgmA_data -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e -w sRAM32x8_pgmA_data.spl {C:/Users/willi/Desktop/Final Project/Computer/sRAM32x8_pgmA_data.sym} 
+vhdtdtfi -lib work ../../301_programs/sRAM32x8_pgmA_data.vhd -prj Computer -o sRAM32x8_pgmA_data.spl -module sRAM32x8_pgmA_data -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e -w sRAM32x8_pgmA_data.spl {C:/Users/willi/Desktop/Final Project/Computer/sRAM32x8_pgmA_data.sym} 
+vhdtdtfi -lib work ../../301_programs/sRAM32x8_pgmA_data.vhd -prj Computer -o sRAM32x8_pgmA_data.spl -module sRAM32x8_pgmA_data -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e -w sRAM32x8_pgmA_data.spl {C:/Users/willi/Desktop/Final Project/Computer/sRAM32x8_pgmA_data.sym} 

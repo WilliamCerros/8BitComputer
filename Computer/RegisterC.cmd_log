@@ -1,0 +1,4 @@
+sch2sym -intstyle ise -family spartan3e -refsym RegisterC {C:/Users/willi/Desktop/Final Project/Display/RegisterC.sch} {C:/Users/willi/Desktop/Final Project/Computer/RegisterC.sym} 
+sch2sym -intstyle ise -family spartan3e -w -refsym RegisterC {C:/Users/willi/Desktop/Final Project/Display/RegisterC.sch} {C:/Users/willi/Desktop/Final Project/Computer/RegisterC.sym} 
+sch2sym -intstyle ise -family spartan3e -w -refsym RegisterC {C:/Users/willi/Desktop/Final Project/Display/RegisterC.sch} {C:/Users/willi/Desktop/Final Project/Computer/RegisterC.sym} 
+sch2sym -intstyle ise -family spartan3e -w -refsym RegisterC {C:/Users/willi/Desktop/Final Project/Display/RegisterC.sch} {C:/Users/willi/Desktop/Final Project/Computer/RegisterC.sym} 

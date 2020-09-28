@@ -1,0 +1,1 @@
+sch2sym -intstyle ise -family spartan3e -refsym Keypad {C:/Users/willi/Desktop/Final Project/Computer/Keypad.sch} {C:/Users/willi/Desktop/Final Project/Computer/Keypad.sym} 
